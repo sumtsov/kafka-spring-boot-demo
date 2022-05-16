@@ -1,0 +1,2 @@
+/home/dmitry/programming/learn/java/pet-projects/kafka-spring-boot-demo/kafka-client/src/main/java/com/dsumtsov/kafka/client/dto/OrderStatusUpdateDTO.java
+/home/dmitry/programming/learn/java/pet-projects/kafka-spring-boot-demo/kafka-client/src/main/java/com/dsumtsov/kafka/client/enums/OrderStatus.java
